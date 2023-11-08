@@ -1,0 +1,139 @@
+*
+{
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+
+}
+
+.div1
+{
+	//border: 2px;
+	//border-color: #757575;
+	//border-style: solid;
+	padding: 183px 420px;
+	//border-radius: 10px;
+	//margin-top: 140px;
+	//margin-left: 270px;
+	background-image: url(16.jpg);
+	background-size: cover;
+	background-position: center -200px;
+	//display: flex;
+	//justify-content: center;
+}
+
+.div2
+{
+	/*background-image: url(11.jpg);
+	background-size: contain;*/
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 250px;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+
+}
+
+.img
+{
+	height: 100%;
+	/*border-radius: 40px;
+	box-shadow: 2px 2px 7px black;*/
+}
+
+.p1
+{
+	font-size: 15px;
+	font-weight: 400;
+
+}
+
+.div3
+{
+	border: 2px;
+	border-color: #92afce;
+	border-style: solid;
+	padding: 13px;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 500;
+	border-radius: 15px;
+	background-color: whitesmoke;
+
+}
+
+.div4
+{
+	border: 2px;
+	border-color: #92afce;
+	border-style: solid;
+	padding: 13px;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 500;
+	text-align: center;
+	border-radius: 25px;
+	background-color: whitesmoke;
+}
+
+.div5
+{
+	border: 2px;
+	border-color: #92afce;
+	border-style: solid;
+	padding: 13px;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 500;
+	text-align: center;
+	border-radius: 25px;
+	background-color: whitesmoke;
+}
+
+.div7
+{
+	border: 2px;
+	border-color: #92afce;
+	border-style: solid;
+	padding: 13px;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 500;
+	text-align: center;
+	border-radius: 25px;
+	background-color: whitesmoke;
+}
+
+.div8
+{
+	border: 2px;
+	border-color: #92afce;
+	border-style: solid;
+	padding: 13px;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 500;
+	text-align: center;
+	border-radius: 25px;
+	background-color: whitesmoke;
+}
+
+.button
+{
+	padding: 9px 80px;
+	font-size: 17px;
+	font-weight: 600;
+	color: whitesmoke;
+	border-radius: 10px;
+	border-width: 0px;
+	background-image: linear-gradient(to right,#5DAEFA,#5E8EFA,#606AFA,#6D66FA,#9E8FFC);
+	transition-duration: 0.7s;
+	text-decoration-line: none;
+	transition-duration: .6s;
+	margin: 10px;
+}
+.button:hover
+{
+	border-radius: 30px;
+}
